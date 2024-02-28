@@ -1,0 +1,18 @@
+{
+  "Configuration": {
+    "DatabaseName": "default",
+    "DatabasePassword": "",
+    "DatabaseType": "HSQLDB",
+    "DatabaseHost": "",
+    "DatabaseUserName": "",
+    "DatabaseUseIntegratedSecurity": "False",
+    "ApplicationRootUrl": "http://localhost:8081/",
+    "ScheduledEventExecution": "None"
+  },
+  "Constants": {
+    "CommunityCommons.MergeMultiplePdfs_MaxAtOnce": "10",
+    "ExcelImporter.EnableExternalEntities": "False",
+    "ExcelImporter.ParseEmptyCells": "False"
+  },
+  "AdminPassword": "1"
+}

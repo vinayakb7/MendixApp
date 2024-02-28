@@ -1,0 +1,45 @@
+Initialized native services in: C:\Users\vinayak.bilagi\.gradle\native
+Initialized jansi services in: C:\Users\vinayak.bilagi\.gradle\native
+Received JVM installation metadata from 'C:\Program Files\Eclipse Adoptium\jdk-11.0.20.101-hotspot': {JAVA_HOME=C:\Program Files\Eclipse Adoptium\jdk-11.0.20.101-hotspot, JAVA_VERSION=11.0.20.1, JAVA_VENDOR=Eclipse Adoptium, RUNTIME_NAME=OpenJDK Runtime Environment, RUNTIME_VERSION=11.0.20.1+1, VM_NAME=OpenJDK 64-Bit Server VM, VM_VERSION=11.0.20.1+1, VM_VENDOR=Eclipse Adoptium, OS_ARCH=amd64}
+The client will now receive all logging from the daemon (pid: 17872). The daemon log file: C:\Users\vinayak.bilagi\.gradle\daemon\7.6.3\daemon-17872.out.log
+Starting 14th build in daemon [uptime: 2 hrs 5 mins 17.306 secs, performance: 100%, non-heap usage: 36% of 256 MiB]
+Using 8 worker leases.
+Now considering [C:\Users\vinayak.bilagi\Emcure-Mendix Client\EmcureCompliance_Dev Branch\deployment, C:\Users\vinayak.bilagi\Emcure-Mendix Client\EmcureCompliance_Dev Branch\vendorlib\temp, C:\Users\vinayak.bilagi\Emcure-Mendix Client\Main Branch\deployment] as hierarchies to watch
+Watching the file system is configured to be enabled if available
+File system watching is active
+Invalidating in-memory cache of C:\Users\vinayak.bilagi\Emcure-Mendix Client\EmcureCompliance_Dev Branch\deployment\.gradle\7.6.3\checksums\md5-checksums.bin
+Invalidating in-memory cache of C:\Users\vinayak.bilagi\Emcure-Mendix Client\EmcureCompliance_Dev Branch\deployment\.gradle\7.6.3\checksums\sha1-checksums.bin
+Invalidating in-memory cache of C:\Users\vinayak.bilagi\Emcure-Mendix Client\EmcureCompliance_Dev Branch\deployment\.gradle\7.6.3\checksums\sha256-checksums.bin
+Invalidating in-memory cache of C:\Users\vinayak.bilagi\Emcure-Mendix Client\EmcureCompliance_Dev Branch\deployment\.gradle\7.6.3\checksums\sha512-checksums.bin
+Invalidating in-memory cache of C:\Users\vinayak.bilagi\Emcure-Mendix Client\EmcureCompliance_Dev Branch\deployment\.gradle\7.6.3\fileHashes\fileHashes.bin
+Invalidating in-memory cache of C:\Users\vinayak.bilagi\Emcure-Mendix Client\EmcureCompliance_Dev Branch\deployment\.gradle\7.6.3\fileHashes\resourceHashesCache.bin
+Starting Build
+Settings evaluated using settings file 'C:\Users\vinayak.bilagi\Emcure-Mendix Client\EmcureCompliance_Dev Branch\deployment\settings.gradle'.
+Invalidating in-memory cache of C:\Users\vinayak.bilagi\Emcure-Mendix Client\EmcureCompliance_Dev Branch\deployment\.gradle\7.6.3\dependencies-accessors\executionHistory.bin
+Projects loaded. Root project using build file 'C:\Users\vinayak.bilagi\Emcure-Mendix Client\EmcureCompliance_Dev Branch\deployment\build.gradle'.
+Included projects: [root project 'deployment']
+
+> Configure project :
+Evaluating root project 'deployment' using build file 'C:\Users\vinayak.bilagi\Emcure-Mendix Client\EmcureCompliance_Dev Branch\deployment\build.gradle'.
+All projects evaluated.
+Task name matched 'clean'
+Selected primary task 'clean' from project :
+Tasks to be executed: [task ':clean']
+Tasks that were excluded: []
+Resolve mutations for :clean (Thread[Execution worker,5,main]) started.
+:clean (Thread[Execution worker,5,main]) started.
+Invalidating in-memory cache of C:\Users\vinayak.bilagi\Emcure-Mendix Client\EmcureCompliance_Dev Branch\deployment\.gradle\7.6.3\executionHistory\executionHistory.bin
+Invalidating in-memory cache of C:\Users\vinayak.bilagi\Emcure-Mendix Client\EmcureCompliance_Dev Branch\deployment\.gradle\buildOutputCleanup\outputFiles.bin
+
+> Task :clean UP-TO-DATE
+Caching disabled for task ':clean' because:
+  Build cache is disabled
+Task ':clean' is not up-to-date because:
+  Task has not declared any outputs despite executing actions.
+
+BUILD SUCCESSFUL in 1s
+1 actionable task: 1 up-to-date
+Watched directory hierarchies: [C:\Users\vinayak.bilagi\Emcure-Mendix Client\Main Branch\deployment]
+
+
+
